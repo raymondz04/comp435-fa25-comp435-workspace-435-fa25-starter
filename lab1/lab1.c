@@ -23,7 +23,7 @@ int main(int argc, char **argv) {
     //free(key);
 
     /*
-     * TASK 5
+     * TASK 3
      * 
      * You can uncomment the line below to test your solution to task 3.
      */

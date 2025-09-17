@@ -2,4 +2,8 @@ lab1.c
 lab1.h
 task1.c
 task2.c
+<<<<<<< HEAD
 task5.c
+=======
+task3.c
+>>>>>>> starter/main

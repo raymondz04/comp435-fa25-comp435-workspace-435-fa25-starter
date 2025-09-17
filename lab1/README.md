@@ -1,6 +1,10 @@
 # Lab 1
 
+<<<<<<< HEAD
 This repository contains the starter code for tasks 1, 2, and 5 of Lab 1.
+=======
+This repository contains the starter code for tasks 1, 2, and 3 of Lab 1.
+>>>>>>> starter/main
 
 The starter code includes a file `lab1.c`. Within lab1.c is some code to help you test each of the tasks. Feel free to modify this code however you see fit. 
 
@@ -10,7 +14,11 @@ To make things convenient, we have included a makefile you can use to compile th
 ```bash
 make task1 # compiles the code for task1, generates task1 executable
 make task2 # compiles the code for task2, generates task2 executable 
+<<<<<<< HEAD
 make task5 # compiles the code for task5, generates task5 executable 
+=======
+make task3 # compiles the code for task3, generates task3 executable 
+>>>>>>> starter/main
 ```
 
 After using make to compile your code, you can run the executable as follows: 
@@ -38,9 +46,15 @@ For task 1, the starter code is in the file `task1.c`. The steps you need to fol
 
 Once you have done this, don't forget to answer the questions for task 1 on Gradescope.
 
+<<<<<<< HEAD
 ## Tasks 2 & 5
 
 For tasks 2 and 5, there are more detailed explanations in the lab write up. Please refer to the write up for how to complete these tasks.
+=======
+## Tasks 2 & 3
+
+For tasks 2 and 3, there are more detailed explanations in the lab write up. Please refer to the write up for how to complete these tasks.
+>>>>>>> starter/main
 
 ## Autograder Submission 
 
